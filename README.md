@@ -1,4 +1,4 @@
-slde Please go to http://kgdstbx.github.io/slde  for presentation
+Please go to http://kgdstbx.github.io/slde  for presentation
 ==== R code used for slidify as well as a graph that is embedded in one of the slides
 
 The summary of the presentation is as follows
